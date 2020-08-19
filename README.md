@@ -5,7 +5,7 @@ Here you will find my projects and somethings I have been coding for studying pu
 
 ### About me
 
-I have been programming since 2000 (long time ago), when I took my first programming course, and have been a professional programmer since 2004.<br>
+I have been programming since 2000, when I took my first programming course, and have been a professional programmer since 2004.<br>
 Over the years I learned (and forgot :stuck_out_tongue_closed_eyes:) a few programming languages, like Clipper, Pascal, Visual Basic, Delphi, ASP, ColdFusion, C and C++ (you won't find anything written on those languages here though). Nowadays I mostly use Java, PHP and SQL, I am trying to learn JavaScript in order to be able to create a full application and I am also studying Haskell (functional programming:bangbang:) beacause it is fun.
 During my career I have worked on several different projects, from a simple website to fighter aircrafts software, here goes a list of the ones I am more proud of:
 <br>
