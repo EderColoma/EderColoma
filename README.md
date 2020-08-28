@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-Welcome to my Git! <br>
+Welcome to my GitHub! <br>
 Here you will find my projects and somethings I have been coding for studying purposes, or just for fun 😄
 
 ### About me
