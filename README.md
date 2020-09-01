@@ -13,8 +13,8 @@ During my career I have worked on several different projects, from a simple webs
 <br>:heavy_check_mark: Airspace and air traffic management simulation system.
 <br>:heavy_check_mark: Computer based training system for the Gripen E/F fighter aircraft.
 <br>:heavy_check_mark: Air traffic statistical software.
-<br>:heavy_check_mark: Tax bookkeeping software used by several towns in Brazil.
-<br>:heavy_check_mark: Air traffic control service charging software for Venezuela.
+<br>:heavy_check_mark: Tax bookkeeping software used by several towns in Brazil. :brazil:
+<br>:heavy_check_mark: Air traffic control service charging software for Venezuela. :venezuela:
 
 In my spare time I like playing video games (:video_game:), listening to metal (:guitar:), watching movies and series (:tv:) and playing tennis (:tennis:). I also competitively play Krosmaster (a boardgame :game_die:).
 
