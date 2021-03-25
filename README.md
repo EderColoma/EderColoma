@@ -36,3 +36,4 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edercoloma)](https://www.linkedin.com/in/edercoloma)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/edermaceno)](https://www.hackerrank.com/edermaceno)
+[![Alura Badge](https://img.shields.io/badge/-Alura-017CEE?style=flat-square&logo=Aventrix&logoColor=white&link=https://cursos.alura.com.br/user/ecoloma)](https://cursos.alura.com.br/user/ecoloma)
