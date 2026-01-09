@@ -3,6 +3,8 @@
 Welcome to my GitHub! <br>
 Here you will find my projects and somethings I have been coding for studying purposes, or just for fun 😄
 
+___
+
 ### About me
 
 I have been programming since 2000, when I took my first programming course, and have been a professional programmer since 2004.<br>
@@ -17,6 +19,15 @@ During my career I have worked on several different projects, from a simple webs
 <br>:heavy_check_mark: Air traffic control service charging software for Venezuela.
 <br>
 <br>In my spare time I like playing video games :video_game:, listening to metal music :guitar:, watching movies and series :tv: and practicing wing chun :wrestling:. 
+
+___
+
+### Badges
+
+[![Amazon Cloud Essentials Badge](aws-knowledge-cloud-essentials-training-badge.png)](https://www.credly.com/badges/cd13ecc5-cef4-475f-a912-ac02ee9aa9a1/public_url)
+[![Amazon Q Badge](aws-knowledge-amazon-q-developer-fundamentals-train.png)](https://www.credly.com/badges/1322a488-9016-4461-998c-6d51e654a846/public_url)
+
+___
 
 <!--
 In my spare time I like playing video games (:video_game:), listening to metal (:guitar:), watching movies and series (:tv:) and practicing wing chun. 
@@ -40,4 +51,5 @@ Here are some ideas to get you started:
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/edercoloma)](https://www.linkedin.com/in/edercoloma)
 [![HackerRank Badge](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white&link=https://www.hackerrank.com/edermaceno)](https://www.hackerrank.com/edermaceno)
-[![Alura Badge](https://img.shields.io/badge/-Alura-307AE4?style=flat-square&logo=Aventrix&logoColor=white&link=https://cursos.alura.com.br/user/ecoloma)](https://cursos.alura.com.br/user/ecoloma)
+[![Alura Badge](https://img.shields.io/badge/-Alura-307AE4?style=flat-square&logo=alamy&logoColor=white&link=https://cursos.alura.com.br/user/ecoloma)](https://cursos.alura.com.br/user/ecoloma)
+[![Credily Badge](https://img.shields.io/badge/-Credly-FF6B00?style=flat-square&logo=Credly&logoColor=white&link=https://www.credly.com/users/eder-coloma)](https://www.credly.com/users/eder-coloma)
